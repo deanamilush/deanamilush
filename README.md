@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @deanamilush
-- 👀 I'm interested in Mobile Programming
-- 🌱 I'm currently learning Android Developer
+- 👀 I'm interested in Programming
+- 🌱 I'm currently learning Mobile and Web Programming with AI Integration
 - 📫 How to reach me deanamilush@gmail.com
 
 <!---
